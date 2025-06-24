@@ -1,0 +1,26 @@
+{
+  "name": "goiteens-js-hw-08-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "json-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yevgeniiaa/goiteens-js-hw-08-gallery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yevgeniiaa/goiteens-js-hw-08-gallery/issues"
+  },
+  "homepage": "https://github.com/Yevgeniiaa/goiteens-js-hw-08-gallery#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.8"
+  }
+}

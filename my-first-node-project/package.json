@@ -1,0 +1,12 @@
+{
+  "name": "my-first-node-project",
+  "version": "1.0.0",
+  "description": "Перший проєкт на Node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Ім’я Прізвище",
+  "license": "ISC"
+}
+

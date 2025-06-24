@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 40px auto;
+    text-align: center;
+    background-color: #fdfdfd;
+  }
+  
+  canvas {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    background-color: white;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  

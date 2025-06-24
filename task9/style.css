@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 2rem;
+  }
+  
+  form {
+    margin-bottom: 2rem;
+  }
+  
+  input {
+    margin: 0.25rem;
+    padding: 0.5rem;
+  }
+  
+  button {
+    padding: 0.5rem;
+    margin-left: 0.25rem;
+  }
+  
+  li {
+    margin-bottom: 1rem;
+  }
+  

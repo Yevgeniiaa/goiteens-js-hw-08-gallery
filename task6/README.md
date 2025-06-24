@@ -1,0 +1,2 @@
+# parcel-mini-app
+ 
